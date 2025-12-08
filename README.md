@@ -6,3 +6,6 @@ Press `4` if you want to just skip to it immediately.
 
 [The Distracted Driving Cup Prototype](https://mscheske.itch.io/distracted-driving-cup)
 Leave your best time in the comments! 
+
+[Study Hell](https://mdiamond23.itch.io/study-hell)
+Experience the terror of a late night cram be doubled down by the supernatural. 
