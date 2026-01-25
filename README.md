@@ -9,3 +9,6 @@ Leave your best time in the comments!
 
 [Study Hell](https://mdiamond23.itch.io/study-hell)
 Experience the terror of a late night cram be doubled down by the supernatural. 
+
+[Home Court Advantage Study](https://github.com/mscheske13/HomeCourtAdvantageStudy)
+An investigation into the cause of Home Court Advantage in Men's D1 College Basketball
